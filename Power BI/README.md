@@ -1,4 +1,4 @@
-This repository contains some sample dashboards developed in Power BI using publicly available data.
+This repository contains some sample dashboards which I created in Power BI using publicly available data.
 
 
 1. This dashboard utilises data from the New Zealand Health Survey to illustrate trends in smoking, vaping and substance use amongst New Zealand Adults.
