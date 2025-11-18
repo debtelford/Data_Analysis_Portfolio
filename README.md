@@ -3,4 +3,8 @@
 
 ## About
 
-My background spans accounting and academic research, where I developed a strong foundation in data analysis, reporting, and statistical reasoning. In 2025, I earned a PhD in Exercise Science, using R to integrate and analyse accelerometry and questionnaire data to explore how adolescents sleep, sit, stand, and move throughout the 24-hour day and how these behaviors relate to health and wellbeing. I’m now expanding this expertise through projects in Python, SQL, and Power BI, with a particular focus on applying data analysis in health and social contexts.
+This repository illustrates a selection of my data analysis projects.
+My background spans accounting and exercise science, where I built a strong foundation in data analysis, reporting, and statistical reasoning. I completed a PhD in Exercise Science (2025), using R to integrate and analyse accelerometry and questionnaire data to understand how adolescents sleep, sit, stand, and move throughout the 24-hour day, and how these behaviours relate to health and wellbeing.
+
+I’m now applying these analytical skills across new tools and contexts, with a particular interest in health, wellbeing, and social data.
+This repo is a space to share work-in-progress, explore new methods, and demonstrate my approach to data-driven problem-solving.
