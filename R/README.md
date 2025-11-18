@@ -1,8 +1,7 @@
 # R projects
 This folder contains a sample R script which I developed as part of a research project examining 24-h movement behaviours (physical activity, sedentary behaviour, sleep) in adolescents.
 
-The script imports handwritten diary data and activPAL accelerometry files (15-second epochs), processes them, and produces a participant-level summary dataset:  
-**`participant_complete.csv`**
+The script imports handwritten diary data and activPAL accelerometry files (in 15-second epochs), processes them, and produces a participant-level summary dataset.
 
 The processing steps include:
 
