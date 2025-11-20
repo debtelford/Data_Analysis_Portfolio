@@ -10,8 +10,8 @@ I’m now applying these analytical skills across new tools and contexts.
 This repo is a space to share work-in-progress, explore new methods, and demonstrate my approach to data-driven problem-solving.
 
 
-## Status (19/11/25):
-- Power BI and R folders contain samples of work.
-- Python and SQL folders - to be updated.
+## Status (20/11/25):
+- Power BI, SQL and R folders contain samples of work.
+- Python folder - to be updated.
 
 
