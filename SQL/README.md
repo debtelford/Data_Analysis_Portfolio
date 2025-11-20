@@ -5,7 +5,7 @@ This folder contains SQL projects and queries used for data analysis practice. C
 ## Project 1: northwind 
 Source data: Northwind for SQLite3, downloaded from https://github.com/jpwhite3/northwind-SQLite3
 
-The `northwind_sales_queries.sql` file includes a series of SQL queries exploring sales data, including:
+The `northwind_sales_queries.sql` file contains a series of SQL queries exploring sales data, including:
 
 - Monthly sales trends (all years)
 - Top 10 customers by revenue 2020
